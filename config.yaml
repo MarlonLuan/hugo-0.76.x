@@ -1,0 +1,10 @@
+baseURL: /
+defaultContentLanguage: pt-br
+
+languages:
+  pt-br:
+    title: pt-br
+    weight: 1
+  es:
+    title: es
+    weight: 2
